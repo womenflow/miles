@@ -13,6 +13,10 @@ The secret isn't toughing it out. It's running *smarter*. Here's how to keep log
 
 ![Woman running on a hot summer day](/images/miles-s1.png)
 
+Here are all five rules at a glance — then we'll dig into each:
+
+![Five rules for hot-weather running](/images/miles-diagram.svg)
+
 ## Rule #1: Time It Right
 This is the big one. **Run early morning or after sunset** — not high noon. A 6am run and a 1pm run in July are two completely different sports. Dawn is cooler, quieter, and honestly kind of magical. Become a morning runner for the summer; go back to your ways in the fall.
 
