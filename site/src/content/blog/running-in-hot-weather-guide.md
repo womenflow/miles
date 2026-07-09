@@ -1,9 +1,9 @@
 ---
 title: "How to Keep Running When It's 90°F: A Hot-Weather Survival Guide"
 description: "How to run safely in hot weather: timing, hydration, gear, and pace tips to keep your summer running going strong without overheating."
-pubDate: 2026-07-10T08:00:00Z
+pubDate: 2026-07-09T22:13:30Z
 tags: ["running", "hot weather", "summer fitness", "training"]
-draft: true
+draft: false
 image: "/images/miles-s1.png"
 ---
 
